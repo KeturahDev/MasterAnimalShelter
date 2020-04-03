@@ -4,6 +4,7 @@ namespace MasterAnimalShelter.Models
   {
     public int AnimalId { get; set; }
     public string Name { get; set; }
+    public string Photo { get;set; }
     public string Type { get; set; }
     public string Personality { get; set; }
     public int PowerStatus { get; set; }
