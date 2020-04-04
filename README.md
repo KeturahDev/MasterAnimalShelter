@@ -42,7 +42,7 @@ Download the .zip file and extract all files into directory of your choice OR cl
 
 1. Clone the repository:
     ```
-    git clone https://github.com/KeturahDev/CatBoardApi.Solution.git
+    git clone https://github.com/KeturahDev/MasterAnimalShelter.git
     ```
 
 2. Restore all dependencies:
