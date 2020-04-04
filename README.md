@@ -1,7 +1,7 @@
 # MasterAnimalShelter Api
 ### By **Keturah Howard**  April 3rd 2020
 
-ASP.NET core API application to create database of Animals at an Alternate Universe AnimalShelter- Where the animals you adopt are actually now your master.
+ASP.NET core API application to create database of animals for an animal shelter. This API Application is about an animal shelter where but with a twist- These animals are more powerful than you and when you adopt you are submitting to serve them through life! Wha-oh! Very fun. Store information such as PowerStatus intergers and ironically assign adorable and benign animal photo links to your added masters. You can interact with this API by installing and running it, and then installing running and opening [this interface application](https://github.com/KeturahDev/AnimalShelterInterface.Solution) made specifically for this Api.
 
 ## Specifications 
 
@@ -28,9 +28,6 @@ GET /api/animals/{animalId}
 PUT /api/animal/{animalId}
 DELETE /api/animal/{animalId}
 ```
-
-
-
 
 ## Getting Started
 
@@ -61,8 +58,6 @@ Download the .zip file and extract all files into directory of your choice OR cl
     dotnet run
     ```
 
-
-
 ## Technologies Used
 
 * C#
@@ -71,15 +66,16 @@ Download the .zip file and extract all files into directory of your choice OR cl
 * Newtonsoft.Json
 * Git
 
+## External Assets
+* MySqlWorkBench
+* Postman
+
 
 ## Known Bugs
 Currently there's no known bugs.
 
 ## Contact Info 
-Currently there's no known bugs, however, if there are any issues running this website I would love feedback! Please email me at 
-* keturah.dev@gmail.com.
-
-
+Currently there's no known bugs, however, if there are any issues running this website I would love feedback! Please email me at keturah.dev@gmail.com.
 
 ## License
 
