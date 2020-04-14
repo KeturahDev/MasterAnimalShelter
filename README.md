@@ -20,6 +20,8 @@ ASP.NET core API application to create database of animals for an animal shelter
 
 ### API Endpoints
 
+***this application implements swagger documentation. To view the swaggered details of this API, please open http://localhost:5000/swagger/index.html#/Animals after completeing instalation and opening the program***
+
 ANIMALS
 ```
 GET /api/animals
